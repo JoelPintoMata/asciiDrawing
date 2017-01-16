@@ -8,9 +8,9 @@ Points of action are expected to be between 1..canvas size. In the case a point 
 
 Tech Stack
 ----------
-Maven
-Java 8
-jUnit  (tests)
+* Maven
+* Java 8
+* jUnit  (tests)
 
 Run
 ---
